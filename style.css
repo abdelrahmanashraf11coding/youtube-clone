@@ -55,7 +55,6 @@ header {
 
 .mid-section input:focus {
   outline: none;
-  border: none;
 }
 
 .mid-section button {
